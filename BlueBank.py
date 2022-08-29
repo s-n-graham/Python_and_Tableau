@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+#Tableau link:
+#https://public.tableau.com/app/profile/simon.graham1440/viz/BlueBank_16617874973130/BlueBankLoans?publish=yes
+
 """
 Created on Tue Aug 16 12:32:42 2022
 

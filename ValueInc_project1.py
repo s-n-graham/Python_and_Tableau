@@ -31,7 +31,7 @@ NumberOfItemsPurchased = data['NumberOfItemsPurchased']
 CostPerTransaction = CostPerItem*NumberOfItemsPurchased
 data['CostPerTransaction'] = CostPerTransaction
 
-################################################################
+#################################################################
 #SalesPerTransaction Column
 data['SalesPerTransaction'] = data['SellingPricePerItem']*data['NumberOfItemsPurchased']
 

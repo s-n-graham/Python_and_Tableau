@@ -91,4 +91,4 @@ data = data.drop('ClientKeywords', axis = 1)
 data = data.drop(['Month','Year'], axis = 1) #I already dropped 'Day'
 
 #Export to CSV
-data.to_csv('ValueInc_Clean.csv', index = False)
+data.to_csv('ValueInc_Clean.csv', index = False) 
